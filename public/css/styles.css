@@ -1,0 +1,85 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  width: 90%;
+  margin: 10px auto;
+  background-color: white;
+}
+
+section {
+  margin: 25px 0;
+  margin-bottom: 1em;
+  padding: 2em;
+  background-color: white;
+  padding-top: 5em;
+}
+
+tr{
+  margin-left: 10em;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  margin: 10px 0;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 100;
+}
+
+h1{
+  font-size: 1.5em;
+  padding-bottom: 1em;
+  position: fixed;
+  background-color: white;
+  padding: 2em;
+  margin-left: -0.5em;
+  color: black;
+  text-transform: uppercase;
+  font-weight: 800;
+  padding-top: 0.3em;
+}
+
+h2 {
+  margin: 25px 0;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+h3 {
+  display: inline;
+}
+
+.cate {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-style: italic;
+  position: fixed;
+  padding-top: 6em;
+  font-size: 0.7em;
+  margin-left: 3.1em;
+  margin-right: 1.3em;
+  line-height: 1.5em;
+}
+
+.fotoin {
+  width: 40em;
+}
+
+.foto {
+  width: 20em;
+}
+
+a:link {
+    color: darkgrey;
+    text-decoration: none;
+}
+
+a:visited {
+    color: lightgrey;
+}
+
+a:hover {
+    color: black;
+}
